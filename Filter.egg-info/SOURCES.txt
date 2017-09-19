@@ -1,0 +1,8 @@
+Filter/__init__.py
+Filter/__main__.py
+Filter/box.py
+Filter/utils.py
+Filter.egg-info/PKG-INFO
+Filter.egg-info/SOURCES.txt
+Filter.egg-info/dependency_links.txt
+Filter.egg-info/top_level.txt
